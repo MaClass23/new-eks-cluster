@@ -3,3 +3,6 @@
 *.tf.state
 *.tfstate.*
 *.tfvars
+.terraform
+data.sh
+user.tf
